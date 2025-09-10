@@ -1,6 +1,4 @@
-# 📊 Smart Finance Assistant – Student Project Template
-
-Welcome to your project repository for the **ISYS2001 Final Programming Project**. This repo provides a starting point for building your **Smart Finance Assistant**.
+# 📊 Smart Finance Assistant – Submission for Jordan King 20567307
 
 ---
 
